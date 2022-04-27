@@ -1,0 +1,3 @@
+graft essay_grader
+global-exclude *.py[cod] __pycache__ *.so *.ipynb
+recursive-exclude  essay_grader/jupy *

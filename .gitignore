@@ -1,0 +1,12 @@
+*/version.txt
+*.pyc
+*.swp
+build/
+dist/
+.coverage
+.ipynb_checkpoints
+*.iml
+groupama/data/base_pno.*
+.DS_Store
+.idea/
+.pptx
